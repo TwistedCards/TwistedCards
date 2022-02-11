@@ -1,7 +1,7 @@
 Olá! Eu sou o Paulo e adoro café
 
 - 🔭 Atualmente trabalho com back-end java EE e java SE
-- 🌱 Estudando SpringBoot e Thymeleaf
+- 🌱 Estudando SpringBoot, Microservices e SpringCloud
 - 📫 Contate-me no e-mail: paulohonorio808@gmail.com
 
 <div align="center">
